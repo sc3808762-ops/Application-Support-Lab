@@ -1,0 +1,7 @@
+2026-10-30 09:00:00 INFO  Application started successfully
+2026-10-30 09:01:10 INFO  Database connection established
+2026-10-30 09:05:20 INFO  User login successful
+2026-10-30 09:10:30 WARN  Database response is slow
+2026-10-30 09:12:45 ERROR Database connection failed
+2026-10-30 09:13:00 ERROR Unable to process login request
+2026-10-30 09:15:10 INFO  Application restarted
