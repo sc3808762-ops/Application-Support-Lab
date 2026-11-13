@@ -1,0 +1,9 @@
+2026-11-09 09:00:01 INFO Application started successfully
+2026-11-09 09:05:10 INFO Database connected
+2026-11-09 09:10:15 WARN Response time exceeded 3 seconds
+2026-11-09 09:15:20 ERROR Database connection failed
+2026-11-09 09:16:25 ERROR Unable to process user request
+2026-11-09 09:17:30 WARN Memory usage reached 85%
+2026-11-09 09:20:40 ERROR Payment service unavailable
+2026-11-09 09:25:50 INFO Application restarted
+2026-11-09 09:30:00 INFO Database connected successfully
