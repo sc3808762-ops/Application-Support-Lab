@@ -1,4 +1,3 @@
-# Day 4 – Linux Process Management Commands
 
 ## 1. ps aux
 
